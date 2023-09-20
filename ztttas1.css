@@ -1,0 +1,94 @@
+._11Ivv {
+    background: url("ここに画像のリンク");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.PreloaderBase-sc-1xcl5li-0.ddQdoB {
+    background: #11111192;
+}
+
+.JumpToBottom__Bar-sc-v9kqir-0.gILwrq > div {
+    background: #11111192;
+    width: calc(100% - 2rem);
+    margin-left: 1rem;
+    margin-top: 2rem;
+    border-radius: 6px;
+}
+
+.JumpToBottom__Bar-sc-v9kqir-0.ggHcXn > div,
+.TypingIndicator__Base-sc-1jama4m-0.fUFJYB > div {
+    background: #11111192;
+    width: calc(100% - 2rem);
+    margin-left: 1rem;
+    border-radius: 0 0 6px 6px;
+    margin-top: -1rem;
+}
+
+.AutoComplete__Base-sc-dtvq9c-0.hkukmG > div {
+    background: #11111192;
+    width: calc(100% - 2rem);
+    margin-left: 1rem;
+    border-radius: 0 0 6px 6px;
+    margin-top: -1rem;
+    backdrop-filter: blur(2px);
+}
+
+.AutoComplete__Base-sc-dtvq9c-0.hkukmG > div button.active {
+    background: #111111c9;
+    border: 1px solid #3d3d3d;
+}
+
+.MessageBase__DetailBase-sc-1s9ehlg-3.kyoVXf time {
+    color: #c9c9c9;
+}
+
+textarea#message::placeholder {
+    color: #ffffff8e;
+}
+
+.FilePreview__Container-sc-znkm6h-0.ewmXHm {
+    background: #11111192;
+    width: calc(100% - 2rem);
+    margin: 0 0 1rem 0;
+    margin-left: 1rem;
+    border-radius: 6px;
+    backdrop-filter: blur(9px);
+}
+
+.ReplyBar__Base-sc-d2l7w7-0.jtuvHh {
+    background: #11111192;
+    width: calc(100% - 2rem);
+    margin: 0 0 0.5rem 0;
+    margin-left: 1rem;
+    border-radius: 6px;
+    backdrop-filter: blur(9px);
+}
+
+pre.sc-bkzYnD.cjWexI {
+    background: #11111192;
+    backdrop-filter: blur(9px);
+}
+
+.Base-sc-1kllx7r-0.iIKZoW {
+    border-top: thin solid #5eb0c3;
+}
+
+.Base-sc-yb16g4-0.iDeTmr {
+    margin: 1rem;
+    background: #11111192;
+    border-radius: 6px;
+}
+
+.Shadow-sc-yb16g4-1.bSmCBu {
+    display: none;
+}
+
+.MessageArea__Area-sc-1q4cka6-0.kpVPRw {
+    margin: 5rem 1rem 1rem 1rem;
+    background: #11111192;
+    border-radius: 6px;
+    backdrop-filter: blur(2.8px);
+}
+
+.MessageBox__Base-sc-jul4fa-0.jBEnry {
